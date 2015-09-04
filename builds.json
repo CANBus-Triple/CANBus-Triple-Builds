@@ -13,6 +13,10 @@
           {
             "build":"0.4.4",
             "path":"CANBus-Triple/CANBusTriple_0.4.4.cpp.hex"
+          },
+          {
+            "build":"0.4.6",
+            "path":"CANBus-Triple/CANBusTriple_0.4.6.cpp.hex"
           }
         ]
     },
