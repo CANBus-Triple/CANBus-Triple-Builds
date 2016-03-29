@@ -17,6 +17,10 @@
           {
             "build":"0.4.6",
             "path":"CANBus-Triple/CANBusTriple_0.4.6.cpp.hex"
+          },
+          {
+            "build":"0.6.1",
+            "path":"CANBus-Triple/CANBusTriple_0.6.1.hex"
           }
         ]
     },
@@ -34,6 +38,10 @@
           {
             "build":"0.4.4",
             "path":"CANBus-Triple-Mazda/CANBusTriple_Mazda_0.4.4.cpp.hex"
+          },
+          {
+            "build":"0.6.1",
+            "path":"CANBus-Triple-Mazda/CANBusTriple_Mazda_0.6.1.hex"
           }
 
         ]
